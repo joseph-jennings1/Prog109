@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+
+
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+
+</head>
+
+
+<table border="3">
+
+		<tr>
+			<th colspan="8"><h1>HTML Table Example</h1></th>
+		</tr>
+		
+		<tr>
+			<td colspan="4"><img src="https://images.media-allrecipes.com/userphotos/720x405/3489951.jpg" id="Rigatoni" alt="Rigatoni Alla Genovese" width=300 height=200></td>
+			<th>Meal Planner</th>
+			<th colspan="3"><h2>Recipe Index #:</h2></th>
+		
+		</tr>
+		
+		
+		<tr>
+			<th colspan="4">Week Starting</th>
+			<td><b>2/15/208</b></td>
+			<th colspan="3">Instructions</th>
+		</tr>
+		
+		<tr>
+			<td colspan="4"><b>Day of the Week</b></td>
+			<td><b>Recipe Name</b></td>
+			<th rowspan="8" colspan="3">Add the name of the recipe</th>
+		</tr>
+		
+		<tr>
+			<td colspan="4">Monday</td>
+			<td>Spinach Feta Pasta</td>
+		</tr>
+		
+		<tr>
+			<td colspan="4">Tuesday</td>
+			<td>My New Recipe</td>
+		</tr>
+		
+		<tr>
+			<td colspan="4">Wednesday</td>
+			<td></td>
+		</tr>
+		
+		<tr>
+			<td colspan="4">Thursday</td>
+			<td></td>
+		</tr>
+		
+		<tr>
+			<td colspan="4">Friday</td>
+			<td></td>
+		</tr>
+		
+		<tr>
+			<td colspan="4">Saturday</td>
+			<td></td>
+		</tr>
+		
+		<tr>
+			<td colspan="4">Sunday</td>
+			<td></td>
+		</tr>
+		
+</table>
+
+
+</html>
